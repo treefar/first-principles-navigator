@@ -2,7 +2,7 @@
 
 把模糊問題拆成事實、假設與最小驗證，留下可以持續追蹤的決策紀錄。
 
-[開啟公開版](https://treefar.github.io/first-principles-navigator/)
+[開啟公開版](https://treefar.link/first-principles-navigator/)
 
 ![第一性原理核心問題導航器預覽](preview.webp)
 
